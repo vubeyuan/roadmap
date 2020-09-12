@@ -1,2 +1,2 @@
 # roadmap
-jalan ninjaku
+Menyimpan Jalan Ninjaku untuk kedepannya
